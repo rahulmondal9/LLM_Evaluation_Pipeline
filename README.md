@@ -38,7 +38,7 @@ The assignment required a solution that minimizes latency and costs while mainta
 Clone the repository and install the required dependencies.
 
 ```bash
-git clone [https://github.com/rahulmondal9/llm-eval-pipeline.git](https://github.com/rahulmondal9/LLM_Evaluation_Pipeline)
+git clone [https://github.com/rahulmondal9/LLM-Evaluation-Pipeline.git](https://github.com/rahulmondal9/LLM_Evaluation_Pipeline)
 cd LLM-Evaluation-Pipeline
 pip install -r requirements.txt
 ```
