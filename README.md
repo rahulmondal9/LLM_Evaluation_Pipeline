@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LLM Response Evaluation Pipeline
 
 This repository contains a robust, automated pipeline designed to evaluate the reliability of Large Language Model (LLM) responses. It acts as an automated "Judge," measuring **Hallucination**, **Relevance**, and **Completeness** by strictly comparing AI responses against retrieved Context vectors.
@@ -105,3 +106,6 @@ To scale this solution to production levels (millions of daily active users), I 
 
 **Author:** Rahul Mondal  
 **Date:** December 2025
+=======
+# LLM_Evaluation_Pipeline
+>>>>>>> 9de8db0c4b006a25c4aaef39d25f60dc8e63d5d0
