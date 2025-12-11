@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # LLM Response Evaluation Pipeline
 
 This repository contains a robust, automated pipeline designed to evaluate the reliability of Large Language Model (LLM) responses. It acts as an automated "Judge," measuring **Hallucination**, **Relevance**, and **Completeness** by strictly comparing AI responses against retrieved Context vectors.
@@ -38,8 +38,8 @@ The assignment required a solution that minimizes latency and costs while mainta
 Clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/llm-eval-pipeline.git
-cd llm-eval-pipeline
+git clone [https://github.com/rahulmondal9/llm-eval-pipeline.git](https://github.com/rahulmondal9/LLM_Evaluation_Pipeline)
+cd LLM-Evaluation-Pipeline
 pip install -r requirements.txt
 ```
 
