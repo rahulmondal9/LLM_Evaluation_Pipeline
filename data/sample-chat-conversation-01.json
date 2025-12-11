@@ -1,0 +1,42 @@
+{
+  "chat_id": 78128,
+  "user_id": 77096,
+  "conversation_turns": [
+    {
+      "turn": 1,
+      "sender_id": 1,
+      "role": "AI/Chatbot",
+      "message": "I know what you're going through. Let's talk. I'm here to support you for all your infertility and IVF needs. Please tell me what's on your mind.",
+      "created_at": "2025-11-16T17:04:44.000000Z"
+    },
+    {
+      "turn": 5,
+      "sender_id": 77096,
+      "role": "User",
+      "message": "I and my wife are planning to come to India early next month. I am still trying to convince her that since I started with communicating with you eversince, I may be a good idea to come to you in an attempt to solve our infertility problems.",
+      "created_at": "2025-11-16T17:06:58.000000Z"
+    },
+    {
+      "turn": 6,
+      "sender_id": 1,
+      "role": "AI/Chatbot",
+      "message": "It's wonderful to hear you are planning to come to India and are considering the Malpani Infertility Clinic to address your infertility problems. We have significant experience with patients coming from overseas, and we strive to make the process as smooth as possible. We can coordinate preliminary tests in your hometown to minimize your time in Mumbai, often requiring only 10 to 20 days at our clinic for an entire IVF cycle. What specific infertility challenges have you both been diagnosed with so far? [](https://www.drmalpani.com/knowledge-center/articles/how-ivf-works-your-complete-guide)",
+      "created_at": "2025-11-16T17:07:10.000000Z"
+    },
+    {
+      "turn": 13,
+      "sender_id": 77096,
+      "role": "User",
+      "message": "Do you have an idea how much thier rooms cost per night?",
+      "created_at": "2025-11-16T20:42:07.000000Z"
+    },
+    {
+      "turn": 14,
+      "sender_id": 1,
+      "role": "AI/Chatbot",
+      "message": "For Gopal Mansion, an air-conditioned room with TV and bath is Rs 800 per night. We also offer specially subsidized air-conditioned rooms at our clinic for Rs 2000 (US $50) per night, and non-AC rooms for Rs 1500 (US$ 40) per night, including free breakfast. Happy Home Hotel, which is a 5-minute walk from our clinic, offers single rooms for Rs 1400 and double rooms for Rs 2000. To discuss your specific needs and coordinate your visit, you can [book a consultation call](https://pages.razorpay.com/ivfconsultation) with Dr. Malpani.",
+      "created_at": "2025-11-16T20:42:16.000000Z",
+      "evaluation_note": "Hallucination/Factual Error: The bolded section regarding 'subsidized rooms at our clinic' is explicitly noted as incorrect in the review data."
+    }
+  ]
+}

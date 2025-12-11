@@ -1,0 +1,4 @@
+numpy
+scikit-learn
+sentence-transformers>=2.2.0
+scipy

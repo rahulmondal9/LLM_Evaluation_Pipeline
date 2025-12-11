@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "data": {
+    "vector_data": [
+      {
+        "id": 28960,
+        "text": "Hotels Near Malpani Infertility Clinic... Happy Home Hotel... Room Charges 1400/- Single Room 2000/- Double Room. This is a 5 min walk away from the clinic...",
+        "source_url": "https://www.drmalpani.com/hotels"
+      },
+      {
+        "id": 27025,
+        "text": "Your best choice would be Gopal Mansion... An airconditioned room with TV and bath is only Rs 800 per night...",
+        "source_url": "https://www.drmalpani.com/hotels"
+      },
+      {
+        "id": 36699,
+        "text": "Most successful IVF centre in Mumbai, India... Patients are able to get treatment that is at par with the rest of the world, but at less than half of the cost in western countries.",
+        "source_url": "https://www.drmalpani.com/knowledge-center/articles/most-successful-ivf-centre-in-mumbai-india"
+      }
+    ]
+  }
+}
